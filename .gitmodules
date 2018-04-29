@@ -1,0 +1,6 @@
+[submodule "http"]
+	path = http
+	url = git@github.com:guld-games/guld.gg.git
+	shallow = true
+	fetchRecurseSubmodules = false
+
